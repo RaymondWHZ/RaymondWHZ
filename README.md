@@ -14,7 +14,7 @@ Familiar technologies:
 
 Major projects:
 
-- 🔡 Fontier (In progress): A deep-learning based font rercognition tool
+- 🔡 Fontier (In progress): A deep-learning based font recognition tool
 - 🏆 Leader App (In progress): A communication and management ecosystem for student organizations
 - 🎬 Photon Pictures Warehouse: Minimalist warehouse management & presentation system
 - 🎼 Ultra Music Practice Frontend: Frontend for a computer vision based music sheet enhancer
